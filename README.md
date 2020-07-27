@@ -1,2 +1,2 @@
-# C-21-is-touching-algorithm
-I wrote an algorithm for is touching. Here's my code.
+# p5.play-boilerplate
+Boiler plate for p5.play
